@@ -1,0 +1,6 @@
+id,section,row,column,installationYear,material,tracking?
+1,test-section,1,1,2014,AMORPHOUS_SILICON,yes
+2,test-section,1,2,2015,AMORPHOUS_SILICON,yes
+3,test-section,1,3,2016,AMORPHOUS_SILICON,yes
+4,test-section,1,4,2016,AMORPHOUS_SILICON,yes
+1,test-section,1,1,2014,AMORPHOUS_SILICON,yes
